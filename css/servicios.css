@@ -11,18 +11,19 @@ body{
 
 .contenservi{
     background-color: rgb(46, 46, 46);
-    display: grid;
+    display: block;
 }
 
 .tituservi{
     background-color: rgb(26, 26, 26);
     padding: 10px;
     display: flex;
-    place-items: center;
+	place-items: center;
     border-radius: 10px;
     margin: 10px;
     color: #fff;
     font-size: 80%;
+	width: auto;
 
 }
 
@@ -37,8 +38,8 @@ body{
 }
 
 .nomser{
-    display: grid;
-    padding: 0 13rem 0 13rem;
+    display: inline-flex;
+	margin: auto;
 
 }
 
