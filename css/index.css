@@ -124,7 +124,7 @@ a{
     padding: 5px 10px 15px 10px;
     border-radius: 10px;
     text-align: center;
-    background-image: linear-gradient(to bottom, rgba(255, 61, 2, 0.5) 0%, rgba(82, 37, 7, 0.3) 100%), url(../img/lap.jpg);
+    background-image: linear-gradient(to bottom, rgba(255, 61, 2, 0.5) 0%, rgba(82, 37, 7, 0.3) 100%), url(./img/lap.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
